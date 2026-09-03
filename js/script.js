@@ -249,7 +249,7 @@ if (copyButton) {
         async () => {
 
             const email =
-                "your@email.com";
+                "238vaibhavsingh@gmail.com";
 
 
             try {
